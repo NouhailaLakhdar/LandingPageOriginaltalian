@@ -521,3 +521,8 @@ nav {
 .slick-slide img {
   display: inline;
 }
+
+.navbar-menu-container svg {
+
+  color: white;
+}
