@@ -1,23 +1,23 @@
 import React from 'react';
-import PickMeals from "../Assets/pick-meals-image.png";
-import ChooseMeals from "../Assets/choose-image.png";
-import DeliveryMeals from "../Assets/delivery-image.png";
+import Pepperoni from "../Assets/Pepperoni-image.png";
+import Tuna from "../Assets/Tuna-image.png";
+import Bolognese from "../Assets/Bolognese-image.png";
 
 const Work = () => {
     const workInFoData = [
         {
-            image: PickMeals,
-            title: "Pick Meals",
+            image: Pepperoni,
+            title: "Pizza Pepperoni",
             text: "Lorem ipsum dolor sit amet consectetur. Non tincidunt.",
         },
         {
-            image: ChooseMeals,
-            title: "Choose How Often",
+            image: Tuna,
+            title: "Pizza Tuna",
             text: "Lorem ipsum dolor sit amet consectetur. Non tincidunt. ",
         },
         {
-            image: DeliveryMeals,
-            title: "Fast Deliveries",
+            image: Bolognese,
+            title: "Pizza Bolognese",
             text: "Lorem ipsum dolor sit amet consectetur. Non tincidunt.",
         },
     ];
